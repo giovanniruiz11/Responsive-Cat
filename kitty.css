@@ -16,9 +16,6 @@ body {
 	.changing {
 		content:url(images/kitten-large.png);
 	}
-	body {
-    		background-image: url(images/TINA.gif);
-	}
 }
 .kittyloaf {
 		display:none ;
